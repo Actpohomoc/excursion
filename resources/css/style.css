@@ -1,0 +1,29 @@
+/* style.css */
+
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: normal;
+    color: gray;
+}
+
+.download-button {
+    color: #00ccff;
+    font-size: 16px;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+}
