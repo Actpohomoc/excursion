@@ -1,10 +1,16 @@
 /* style.css */
 
 body {
-    font-family: 'Verdana', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
     color: white;
     text-align: center;
+}
+
+.header--main {
+    font-weight: normal;
+    font-size: 50 px;
+    color: #ffffff;
 }
 
 h1 {
@@ -19,7 +25,7 @@ h2 {
 }
 
 .download-button {
-    color: #00ccff;
+    color: aquamarine;
     font-size: 16px;
 }
 
